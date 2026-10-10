@@ -2,7 +2,7 @@
 
 A lightweight native macOS menu bar app for naming and jumping between Mission Control desktops.
 
-**Product deck:** <https://biks2013.github.io/Jumpee/> — a 30-slide tour of what Jumpee does, how to install and configure it, and where it fits.
+**Product deck:** <https://biks2013-tools.github.io/Jumpee/> — a 30-slide tour of what Jumpee does, how to install and configure it, and where it fits.
 
 ## What it does
 
@@ -18,7 +18,7 @@ A lightweight native macOS menu bar app for naming and jumping between Mission C
 ## Install via Homebrew (recommended)
 
 ```bash
-brew tap BikS2013/jumpee
+brew tap biks2013-tools/jumpee
 brew install --cask jumpee
 ```
 
@@ -32,7 +32,7 @@ brew uninstall --cask jumpee
 
 ## Install manually
 
-Download from [Releases](https://github.com/BikS2013/Jumpee/releases), either:
+Download from [Releases](https://github.com/biks2013-tools/Jumpee/releases), either:
 
 - `Jumpee-x.x.x.dmg` — open it and drag `Jumpee.app` onto the `Applications` shortcut, or
 - `Jumpee-x.x.x.zip` — extract and move `Jumpee.app` to `/Applications/`.

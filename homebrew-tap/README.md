@@ -1,11 +1,11 @@
 # homebrew-jumpee
 
-Homebrew tap for [Jumpee](https://github.com/BikS2013/jumpee) — a macOS menu bar app for naming and jumping between desktops.
+Homebrew tap for [Jumpee](https://github.com/biks2013-tools/jumpee) — a macOS menu bar app for naming and jumping between desktops.
 
 ## Installation
 
 ```bash
-brew tap BikS2013/jumpee /path/to/this/tap
+brew tap biks2013-tools/jumpee /path/to/this/tap
 brew install --cask jumpee
 ```
 

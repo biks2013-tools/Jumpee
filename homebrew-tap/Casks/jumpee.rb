@@ -2,10 +2,10 @@ cask "jumpee" do
   version "1.4.0"
   sha256 "f0522d45b2f10d19c1663f639e980fe9575036bf96deba325c2ab9f321af1b3e"
 
-  url "https://github.com/BikS2013/Jumpee/releases/download/v#{version}/Jumpee-#{version}.zip"
+  url "https://github.com/biks2013-tools/Jumpee/releases/download/v#{version}/Jumpee-#{version}.zip"
   name "Jumpee"
   desc "macOS menu bar app for naming, jumping between desktops, and pinning windows on top"
-  homepage "https://github.com/BikS2013/Jumpee"
+  homepage "https://github.com/biks2013-tools/Jumpee"
 
   depends_on macos: ">= :ventura"
 
